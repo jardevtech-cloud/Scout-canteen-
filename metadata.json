@@ -1,0 +1,6 @@
+{
+  "name": "SCOUTS CANTEEN POS",
+  "description": "High-performance Scouts Canteen Point-of-Sale (POS) System with USB barcode scanner integration, inventory management, cashier shifts, offline-first SQLite database, thermal receipts, and Uganda Shillings (UGX) currency support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
